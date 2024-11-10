@@ -1,0 +1,17 @@
+[
+    {
+        "icon" : "MdPlace",
+        "title" : "Find Us",
+        "details" : "Ahmedabad , Gujarat"
+    },
+    {
+        "icon" : "MdAddCall",
+        "title" : "Call Us",
+        "details" : "8849127548"
+    },
+    {
+        "icon" : "MdEmail",
+        "title" : "Mail Us",
+        "details" : "niyatipatel0701@gmail.com"
+    }
+]
